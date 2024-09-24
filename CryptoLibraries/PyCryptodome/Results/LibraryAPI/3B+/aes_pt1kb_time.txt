@@ -1,0 +1,10 @@
+AES-32-CBC
+Encryption start time = Tue Jun 13 17:48:24 2023.
+Encryption end time = Tue Jun 13 17:48:36 2023.
+Encryption mean duration for 20000 iterations = 454649.2669394392 nanoseconds.
+Ciphertext length (bytes) = 1408.
+Decryption start time = Tue Jun 13 17:48:37 2023.
+Decryption end time = Tue Jun 13 17:48:49 2023.
+Decryption mean duration for 20000 iterations = 472991.8268991616 nanoseconds.
+No decryption error occured.
+

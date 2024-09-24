@@ -1,0 +1,10 @@
+  GNU nano 5.4                   res/ProfilingTimes                             
+aes-256-cbc
+Encryption start time = Sat Jun 17 14:06:58 2023.
+Encryption end time = Sat Jun 17 14:07:24 2023.
+Encryption mean duration for 500 iterations = 52542151.28682749 nanoseconds.
+Decryption start time = Sat Jun 17 14:07:24 2023.
+Decryption end time = Sat Jun 17 14:07:51 2023.
+Decryption mean duration for 500 iterations = 52532433.08743279 nanoseconds.
+No decryption error occured.
+

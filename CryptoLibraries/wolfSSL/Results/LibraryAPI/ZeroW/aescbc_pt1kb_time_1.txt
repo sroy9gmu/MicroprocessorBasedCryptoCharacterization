@@ -1,0 +1,9 @@
+aes-cbc-256
+Encryption start time = Thu Jul 13 09:29:26 2023.
+Encryption end time = Thu Jul 13 09:29:55 2023.
+Encryption mean duration for 1000 iterations = 29263220.5263737 nanoseconds.
+Decryption start time = Thu Jul 13 09:29:55 2023.
+Decryption end time = Thu Jul 13 09:30:25 2023.
+Decryption mean duration for 1000 iterations = 29523659.687344808 nanoseconds.
+No decryption error occured.
+

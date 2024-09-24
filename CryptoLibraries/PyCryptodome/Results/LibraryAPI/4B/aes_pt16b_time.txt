@@ -1,0 +1,10 @@
+  GNU nano 5.4                   res/ProfilingTimes                             
+AES-32-CBC
+Encryption start time = Tue Sep 12 21:39:23 2023.
+Encryption end time = Tue Sep 12 21:39:28 2023.
+Encryption mean duration for 50000 iterations = 73743.39889882262 nanoseconds.
+Decryption start time = Tue Sep 12 21:39:29 2023.
+Decryption end time = Tue Sep 12 21:39:34 2023.
+Decryption mean duration for 50000 iterations = 74547.60344624132 nanoseconds.
+No decryption error occured.
+
